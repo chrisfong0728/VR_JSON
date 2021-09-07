@@ -4,18 +4,30 @@
       "time": 5,
       "title": "Are we on a desert",
       "correct": false,
+      "multi_A": "choice 1A",
+      "multi_B": "choice 1B",
+      "multi_C": "choice 1C",
+      "multi_D": "choice 1D",
       "multi_ans": "A"
     },
     {
       "time": 8,
       "title": "Are we still on Earth?",
       "correct": true,
+      "multi_A": "choice 2A",
+      "multi_B": "choice 2B",
+      "multi_C": "choice 2C",
+      "multi_D": "choice 2D",
       "multi_ans": "B"
     },
     {
       "time": 15,
       "title": "Did you start working on your game idea?",
       "correct": true,
+      "multi_A": "choice 3A",
+      "multi_B": "choice 3B",
+      "multi_C": "choice 3C",
+      "multi_D": "choice 3D",
       "multi_ans": "C"
     }
   ]
