@@ -12,7 +12,7 @@
     },
     {
       "time": 8,
-      "title": "幾錢?",
+      "title": "How many car is in the this room?",
       "correct": true,
       "multi_A": "choice 2A",
       "multi_B": "choice 2B",
