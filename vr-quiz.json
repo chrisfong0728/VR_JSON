@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "time": 5,
+      "time": 2,
       "title": "Are we on a desert",
       "correct": false,
       "multi_A": "choice 1A",
@@ -11,7 +11,7 @@
       "multi_ans": "A"
     },
     {
-      "time": 8,
+      "time": 2,
       "title": "How many car is in the this room?",
       "correct": true,
       "multi_A": "choice 2A",
@@ -21,7 +21,7 @@
       "multi_ans": "B"
     },
     {
-      "time": 15,
+      "time": 2,
       "title": "Did you start working on your game idea?",
       "correct": true,
       "multi_A": "choice 3A",
