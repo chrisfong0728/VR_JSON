@@ -2,7 +2,7 @@
   "questions": [
     {
       "time": 5,
-      "title": "叉車的最好安全負載是多少?",
+      "title": "叉車的最高安全負載是多少?",
       "correct": false,
       "multi_A": "1000公斤",
       "multi_B": "1500公斤",
