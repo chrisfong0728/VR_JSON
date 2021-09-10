@@ -12,22 +12,22 @@
     },
     {
       "time": 2,
-      "title": "How many car is in the this room?",
+      "title": "以下哪一個位置為叉車檢查項目?",
       "correct": true,
-      "multi_A": "choice 2A",
-      "multi_B": "choice 2B",
-      "multi_C": "choice 2C",
-      "multi_D": "choice 2D",
-      "multi_ans": "B"
+      "multi_A": "車輪",
+      "multi_B": "警示燈",
+      "multi_C": "液壓與起重系統",
+      "multi_D": "以上皆是",
+      "multi_ans": "D"
     },
     {
       "time": 2,
-      "title": "Did you start working on your game idea?",
+      "title": "以下哪項為操作叉車安全操作步驟?",
       "correct": true,
-      "multi_A": "choice 3A",
-      "multi_B": "choice 3B",
-      "multi_C": "choice 3C",
-      "multi_D": "choice 3D",
+      "multi_A": "將貨物遮蓋視線",
+      "multi_B": "停放於斜路",
+      "multi_C": "嚴禁載人",
+      "multi_D": "當用作升降台使用",
       "multi_ans": "C"
     }
   ]
