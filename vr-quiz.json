@@ -2,12 +2,12 @@
   "questions": [
     {
       "time": 2,
-      "title": "What is the first checking step of forklift",
+      "title": "叉車的最好安全負載是多少?",
       "correct": false,
-      "multi_A": "choice 1A",
-      "multi_B": "choice 1B",
-      "multi_C": "choice 1C",
-      "multi_D": "choice 1D",
+      "multi_A": "1000公斤",
+      "multi_B": "1500公斤",
+      "multi_C": "2000公斤",
+      "multi_D": "2500公斤",
       "multi_ans": "A"
     },
     {
