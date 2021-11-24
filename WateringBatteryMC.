@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "time": 5,
+      "title": "叉車的最高安全負載是多少?",
+      "multi_A": "1000公斤",
+      "multi_B": "1500公斤",
+      "multi_C": "2000公斤",
+      "multi_D": "2500公斤",
+      "multi_ans": "A"
+    },
+    {
+      "time": 8,
+      "title": "以下哪一個位置為叉車檢查項目?",
+      "multi_A": "車輪",
+      "multi_B": "警示燈",
+      "multi_C": "液壓與起重系統",
+      "multi_D": "以上皆是",
+      "multi_ans": "D"
+    },
+    {
+      "time": 11,
+      "title": "以下哪項為操作叉車安全操作步驟?",
+      "multi_A": "將貨物遮蓋視線",
+      "multi_B": "停放於斜路",
+      "multi_C": "嚴禁載人",
+      "multi_D": "當用作升降台使用",
+      "multi_ans": "C"
+    },
+    {
+      "time": 14,
+      "title": "以下哪項為操作叉車安全操作步驟?",
+      "multi_A": "將貨物遮蓋視線",
+      "multi_B": "停放於斜路",
+      "multi_C": "嚴禁載人",
+      "multi_D": "當用作升降台使用",
+      "multi_ans": "D"
+    }
+  ]
+}
